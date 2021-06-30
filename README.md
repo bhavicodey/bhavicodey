@@ -20,9 +20,6 @@ challenges. (Such as NASA space apps!)😊
   <img align="left" alt="My YouTube" width="22px" src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" />
 </a>
 
-<a href="https://bhavicodey.github.io/spacypedia/">
-  <img align="left" alt="My Space Website" width="22px" src="https://mpng.subpng.com/20191129/kjv/transparent-space-icon-universe-icon-astronautics-technology-i-5de22bdd987a35.9070983115751034536246.jpg" />
-</a>
 
 <a href="https://scratch.mit.edu/users/BhaviScratchy/">
   <img align="left" alt="My Scratch Profile" width="22px" src="https://image.flaticon.com/icons/png/512/919/919846.png" />
@@ -32,9 +29,20 @@ challenges. (Such as NASA space apps!)😊
 
 Top 3 Favorite Coding Projects That I Made ⌨
 <br>
-https://bhavicodey.github.io/spacypedia/
+<a href="https://bhavicodey.github.io/spacypedia/">
+  <img align="left" alt="My Astro Icon" width="22px" src="https://www.pinclipart.com/picdir/big/534-5340233_espacio-space-astronauta-astronaut-casco-cascos-space-icon.png" />
+</a>
+
 <br>
-https://scratch.mit.edu/projects/427489992/
+
+<a href="https://scratch.mit.edu/projects/427489992/">
+  <img align="left" alt="My Scratch Project" width="22px" src="https://www.pinclipart.com/picdir/middle/549-5498686_earth-png-background-clipart-transparent-background-globe-icon.png" />
+</a>
+
 <br>
-https://trinket.io/embed/python/33e5c3b81b
+
+<a href="https://trinket.io/library/trinkets/bc83625d40">
+  <img align="left" alt="Trinket" width="22px" src="https://image.pngaaa.com/686/511686-middle.png" />
+</a>
+
 <br>
