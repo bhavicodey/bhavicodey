@@ -28,7 +28,9 @@ challenges. (Such as NASA space apps!)😊
   <img align="left" alt="My Scratch Profile" width="22px" src="https://image.flaticon.com/icons/png/512/919/919846.png" />
 </a>
 <br>
-### Top 3 Favorite Coding Projects That I Made ⌨
+<br><br><br>
+
+Top 3 Favorite Coding Projects That I Made ⌨
 <br>
 https://bhavicodey.github.io/spacypedia/
 <br>
