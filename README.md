@@ -21,5 +21,9 @@ challenges. (Such as NASA space apps!)😊
 </a>
 
 <a href="https://bhavicodey.github.io/spacypedia/">
-  <img align="left" alt="My YouTube" width="22px" src="https://mpng.subpng.com/20191129/kjv/transparent-space-icon-universe-icon-astronautics-technology-i-5de22bdd987a35.9070983115751034536246.jpg" />
+  <img align="left" alt="My Space Website" width="22px" src="https://mpng.subpng.com/20191129/kjv/transparent-space-icon-universe-icon-astronautics-technology-i-5de22bdd987a35.9070983115751034536246.jpg" />
+</a>
+
+<a href="https://scratch.mit.edu/users/BhaviScratchy/">
+  <img align="left" alt="My YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/919/919846.png" />
 </a>
