@@ -29,16 +29,8 @@ challenges. (Such as NASA space apps!)😊
 
 Top 3 Favorite Coding Projects That I Made ⌨
 <br>
-<a href="https://bhavicodey.github.io/spacypedia/">
-  <img align="left" alt="My Astro Icon" width="22px" src="https://www.pinclipart.com/picdir/big/534-5340233_espacio-space-astronauta-astronaut-casco-cascos-space-icon.png" />
-</a>
+- 🌌 https://bhavicodey.github.io/spacypedia/
+- 🌎 https://scratch.mit.edu/projects/427489992/
+- 📊 https://trinket.io/library/trinkets/bc83625d40
 
-
-<a href="https://scratch.mit.edu/projects/427489992/">
-  <img align="left" alt="My Scratch Project" width="22px" src="https://as2.ftcdn.net/jpg/01/95/07/39/500_F_195073945_Oczdn7rZvFTl8J5Tox2GuRB02Wr7v3mA.jpg" />
-</a>
-
-<a href="https://trinket.io/library/trinkets/bc83625d40">
-  <img align="left" alt="Trinket" width="22px" src="https://www.clipartmax.com/png/middle/276-2766537_coding-flat-icon-with-long-shadow-on-blue-circle-background-coding-flat.png" />
-</a>
 
