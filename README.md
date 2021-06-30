@@ -27,9 +27,12 @@ challenges. (Such as NASA space apps!)😊
 <a href="https://scratch.mit.edu/users/BhaviScratchy/">
   <img align="left" alt="My Scratch Profile" width="22px" src="https://image.flaticon.com/icons/png/512/919/919846.png" />
 </a>
-
+<br>
 ### Top 3 Favorite Coding Projects That I Made ⌨
-
+<br>
 https://bhavicodey.github.io/spacypedia/
+<br>
 https://scratch.mit.edu/projects/427489992/
+<br>
 https://trinket.io/embed/python/33e5c3b81b
+<br>
