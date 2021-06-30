@@ -10,8 +10,12 @@ I am a elementry student, learning different coding languages. I have a huge int
 challenges. (Such as NASA space apps!)😊 
 
 
-### Connect With Me
+### Connect With Me:
 
 <a href="https://twitter.com/BhaviCodey">
   <img align="left" alt="My Twitter" width="22px" src="https://www.freeiconspng.com/thumbs/twitter-icon/twitter-icon-download-18.png" />
+</a>
+
+<a href="https://www.youtube.com/channel/UCOYKCFgSrrM_136QOrIBtNg">
+  <img align="left" alt="My YouTube" width="22px" src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" />
 </a>
